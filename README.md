@@ -2,7 +2,7 @@
 Simple repo to train and evaluate models using different activation functions
 
 <p align="center">
-<img src="./plots/FC_train_loss.png">
+<img src="./plots/FC_train_loss.png" height=700 width=700>
 </p>
 
 ### Training
@@ -19,6 +19,6 @@ Train a model with with `train.py`. During training you can use tensorboard to o
 | batch_size 	| [int] 	| Number of samples per batch. 	| 
 
 ### Example
-fc with relu activations on mnist
+Train a 2 layer fully connected model with relu activations on mnist
 ```
 python train.py --dataset mnist --model fc --act_fn relu --epochs 30
