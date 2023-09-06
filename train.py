@@ -1,5 +1,3 @@
-#!usr/bin/bash python
-
 import argparse
 import torch
 import torch.nn as nn
