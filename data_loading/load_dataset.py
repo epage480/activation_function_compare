@@ -1,4 +1,3 @@
-#!usr/bin/bash python
 import torch
 from torchvision import datasets, transforms
 
