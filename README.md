@@ -2,7 +2,7 @@
 Simple repo to train and evaluate models using different activation functions
 
 <p align="center">
-<img src="./plots/FC_train_loss.png" height=350 width=270>
+<img src="./plots/FC_train_loss.png" height=27 width=350>
 </p>
 
 ### Training
