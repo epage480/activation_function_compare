@@ -13,7 +13,7 @@ Train a model with with `train.py`. During training you can use tensorboard to o
 |---------|--------|----------------------------------------------------|
 | dataset 	| mnist (more to come) 	| Selects which dataset to train on. 	|
 | model 	| fc (more to come) 	| Selects which model architecture to use. 	|
-| act_fn 	| sigmoid, <br>tanh, <br>relu, <br>leakyrelu, <br>elu, <br>swish 	| Selects activation function used in model	|
+| act_fn 	| sigmoid, tanh, <br>relu, leakyrelu, <br>elu, swish 	| Selects activation function used in model	|
 | epochs 	| [int] 	| Number of epochs for training. 	|
 | lr 	| [float] 	| Learning rate. 	|
 | batch_size 	| [int] 	| Number of samples per batch. 	| 
